@@ -1,0 +1,11 @@
+[package]
+name = "block-chain"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde = "*"
+serde_derive = "*"
+serde_json = "*"
+sha2 = "*"
+time = "*"
